@@ -1,11 +1,25 @@
-#SpeedTest 
+<h1 align="center" style="font-weight: bold;">Velolions Speedtest 💻</h1>
 
-Criado para a equipe de suport
+<p align="center">
+    <b>Project developed to test speed, upload and collect MAC address information.</b>
+</p>
 
-#Visualização
+<h2 id="layout">🎨 Layout</h2>
 
-Iniciar teste:
-![Resultado teste](https://github.com/lucasidefer/lions-speed-test/assets/106614516/2b431258-e8bb-4244-bbdb-279fb43465ac)
+<p align="center">
+    <img src="./SRC/iniciar.PNG" alt="Test Start" width="400px">
+    <img src="./SRC/resultado.PNG" alt="Test Result" width="400px">
+</p>
 
-Resultado teste:
-![Iniciar teste](https://github.com/lucasidefer/lions-speed-test/assets/106614516/2ddfa8f4-6c01-4c83-bce0-d2ae6d891df3)
+<h2 id="technologies">💻 Technologies and Prerequisites</h2>
+
+- Python
+- Speedtest
+- Requests
+- Subprocess
+- Tkinter
+
+<h3>Prerequisites</h3>
+
+- [Python 3.12](https://www.python.org/downloads/)
+
