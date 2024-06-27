@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="./readme/inicial.PNG" alt="Test Start" width="400px">
-    <img src="./readme/resultado.PNG alt="Test Result" width="400px">
+    <img src="./readme/resultado.PNG" alt="Test Start" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies and Prerequisite  </h2>
